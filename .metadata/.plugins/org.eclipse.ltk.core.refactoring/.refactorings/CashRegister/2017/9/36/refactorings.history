@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;SingletonPatternDemo.java&apos; to &apos;Singleton&apos;&#x0A;- Original project: &apos;CashRegister&apos;&#x0A;- Destination element: &apos;Singleton&apos;&#x0A;- Original element: &apos;SingletonPatternDemo.java&apos;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="=Singleton" element1="/src&lt;{SingletonPatternDemo.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1504810831513" units="1" version="1.0"/>
+</session>
